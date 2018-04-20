@@ -1,5 +1,4 @@
-
-#　react appをsamplecodeをもとに作りました
+# react appをsamplecodeをもとに作りました
 
 ## 内容
 facebookが出してるreactのサンプルコードをもとに、カウントアップ機能を追加したものです。
@@ -42,6 +41,6 @@ my-app/
 
 このプロジェクトを立ち上げるためには、**これらのファイルがreactである必要があります。**:
 
-##参考にしたファイル
+## 参考にしたファイル
 
 https://github.com/facebook/create-react-app
